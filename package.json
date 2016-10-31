@@ -1,0 +1,26 @@
+{
+  "name": "beeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp watch",
+    "export": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OthloTech/BeeApp_Design.git"
+  },
+  "author": "ya-s-u",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OthloTech/BeeApp_Design/issues"
+  },
+  "homepage": "https://github.com/OthloTech/BeeApp_Design#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sketch": "^1.0.3"
+  }
+}
