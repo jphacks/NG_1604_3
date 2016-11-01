@@ -1,6 +1,6 @@
 # ng-1604-3
 
-# <img src="beeapp.png" width="280">
+# <img src="logo.png" width="280">
 
 [![NPM Version](https://img.shields.io/badge/npm-3.10-orange.svg)](https://www.npmjs.com)
 [![Gulp Version](https://img.shields.io/badge/Gulp-3.9-orange.svg)](http://gulpjs.com/)
